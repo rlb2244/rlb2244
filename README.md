@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Saim Hussain 👋
 **Web & Automation Developer | AppSheet | Python | Excel | AI/ML Enthusiast**  
 
 I’m a **Full-Stack Web & Automation Developer** with **4+ years of experience** building **websites, business automation apps, Python scripts, Excel dashboards, and AI/ML solutions**. I help businesses **save time, reduce manual work, and scale efficiently** with smart digital solutions.
@@ -38,7 +38,6 @@ I’m a **Full-Stack Web & Automation Developer** with **4+ years of experience*
 ### 1. Business Management Automation App
 **Tech:** AppSheet + Excel + Python  
 **Description:** Developed a centralized AppSheet + Excel system for managing operations, customer data, and reporting. Features included **automated workflows, dashboards, notifications**, and role-based access. Reduced manual work by 60% and improved data accuracy.  
-**[Portfolio Images & Demo]**
 
 ### 2. SEO-Optimized WordPress Website
 **Tech:** WordPress + SEO  
@@ -60,9 +59,8 @@ I’m a **Full-Stack Web & Automation Developer** with **4+ years of experience*
 ---
 
 ## 📫 Contact Me
-- Fiverr: [Your Fiverr Profile Link]  
-- Email: [Your Email]  
-- LinkedIn: [Your LinkedIn Profile Link]  
+- Fiverr: https://www.fiverr.com/users/saimhussain33 
+- Email: onepluspro716@gmail.com
 
 ---
 
